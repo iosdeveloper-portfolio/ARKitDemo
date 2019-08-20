@@ -7,5 +7,5 @@
 - User have to detect surface first and show the yellow dots and then put the object in plan
 
 # Requirements
-- iOS 12.2+
-- Xcode 11.0+
+- iOS 11.0+
+- Xcode 10.0+
